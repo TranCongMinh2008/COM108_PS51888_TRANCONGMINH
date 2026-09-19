@@ -2,7 +2,7 @@
 int main(){
     int namSinh;
     float diemTB;
-
+    
     printf("Nhap nam sinh: ");
     scanf("%d",&namSinh);
     printf("Nhap diem: ");
