@@ -1,4 +1,0 @@
-Video Lab1 bai1 https://youtu.be/V9WyZ0Ayf_M
-Video Lab1 bai2 https://youtu.be/6sK-W7Xlg5U
-Video Lab1 bai3 https://youtu.be/1GLw5GNJAxM
-Video Lab1 bai4 https://youtu.be/D23cnkpiY8U
