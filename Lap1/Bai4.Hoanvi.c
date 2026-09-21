@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    int a = 22;
-    int b = 15;
+    int a = 36;
+    int b = 67;
 
     printf("Truoc khi hoan vi: a = %d, b = %d\n", a, b);
 
