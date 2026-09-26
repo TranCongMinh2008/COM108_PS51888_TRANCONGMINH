@@ -8,8 +8,8 @@ int main(){
     printf("Nhap he so b: ");
     scanf("%f", &b);
 
-     x = -b / a;
-     printf("Nghiem cua phuong trinh la: x = %.2f\n", x);
+    x = -b / a;
+    printf("Nghiem cua phuong trinh la: x = %.2f\n", x);
 
     return 0;
 }

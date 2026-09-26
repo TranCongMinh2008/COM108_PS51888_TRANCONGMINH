@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int main(){
+ int main(){
     float toan, ly, anh;
     float diem_trung_binh;
 
@@ -12,7 +11,7 @@ int main(){
     scanf("%f", &anh);
 
     diem_trung_binh = (float)(toan * 3 + ly * 2 + anh * 1) / 6;
-    
+
     printf("Diem trung binh: %.2f\n", diem_trung_binh);
 
     return 0;

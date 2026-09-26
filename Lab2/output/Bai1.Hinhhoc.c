@@ -3,9 +3,9 @@
 #define PI 3.14159
 
 int main(){
-     double dai, rong, r;
+    double dai, rong, r;
 
-     scanf("%lf %lf %lf", &dai, &rong, &r);
+    scanf("%lf %lf %lf", &dai, &rong, &r);
 
     printf("Chu vi hinh chu nhat: %f\n", (dai + rong) * 2);
     printf("Dien tich hinh chu nhat: %f\n", dai * rong);
